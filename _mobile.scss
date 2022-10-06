@@ -1,0 +1,139 @@
+@media (max-width: 768px) {
+    .center {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .header {
+        background-position-x: 31%;
+    }
+
+    .top__title {
+        display: flex;
+        justify-content: center;
+    }
+
+    .title {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .top_text {
+        display: flex;
+    }
+
+    .text {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        
+    }
+
+    .top_button {
+        display: flex;
+        padding-bottom: 238px;
+        justify-content: center;
+    }
+
+    .form {
+        width: 343px;
+        background-position: center;
+    }
+
+    .games {
+        width: 343px;
+        gap: 32px;
+    }
+
+
+    .f {
+        width: 100%;
+    }
+    
+    .play__title {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;  
+    }
+
+    .play__text {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .player {
+        padding-top: 51px;
+    }
+
+    .play_pictures {
+        display: none;
+    }
+
+    .play_pictures1 {
+        display: block;
+    }
+
+    .time_year {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 85px;
+        gap: 64px;
+    }
+
+    .play {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .remember_word {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 85px;
+        gap: 64px;
+    }
+
+    .player3 {
+        background: url(image/mobile/back_mob.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .playRidle {
+        padding-top: 51px;
+        padding-bottom: 488px;
+    }
+
+    .playRidle__title {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+        display: flex;
+        align-items: center;
+        text-align: center
+    }
+
+    .playRidle__text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
+
+
